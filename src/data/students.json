@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Rohit Swami",
+    "email": "rohit@gmail.com",
+    "age": 22
+  },
+  {
+    "id": 2,
+    "name": "Amit Sharma",
+    "email": "amit@gmail.com",
+    "age": 23
+  }
+]
