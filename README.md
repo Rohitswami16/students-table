@@ -38,7 +38,7 @@ This application allows users to **add, edit, delete, and manage student records
 
 ## 📂 Project Structure
 
-`
+```
 students-table
 │
 ├── src
@@ -54,7 +54,7 @@ students-table
 ├── public
 ├── package.json
 └── README.md
-`
+```
 
 ## 🚀 Installation
 
@@ -89,3 +89,4 @@ npm run dev
 Rohit Swami
 Computer Science Graduate | Software Developer
 GitHub Profile: Rohitswami16
+
